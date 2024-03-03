@@ -11,7 +11,7 @@ This is present in file "Assignment:_Test Plan/Test Approach for nu3 ". The file
 This is present in excel "Assignment_Nu3 Test Cases". The sheet represents sample positive and negative test cases of Login scenarios with expected outcome
 
 3. Sample test script for happy path:
-   This is sample automation file using selenium for valid login scneraio. File name is "validloginTest.js"
+   This is sample automation file using selenium for valid login scenario. File name is "validloginTest.js"
    
 # System Requirements
 Node js
