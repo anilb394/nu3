@@ -1,6 +1,6 @@
 # nu3 Test Assignment
 # Description
-This repository is created to keep the solution of test assignment form nu3 realted to Login feature.
+This repository is created to keep the solution of test assignment form nu3 related to Login feature.
 
 # Solution components
 
